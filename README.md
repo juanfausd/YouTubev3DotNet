@@ -1,6 +1,6 @@
 <p><b>YouTubev3DotNet</b></p>
 
-<p>The current project consumes YouTube API using C# .NET</p>
+<p>The current project consumes YouTube API v3 using C# .NET</p>
 
 <p><b>The purpose of this API</b></p>
 
