@@ -1,0 +1,132 @@
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe.config
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csproj.App.config
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csprojResolveAssemblyReference.cache
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\DotNetOpenAuth.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Samples.Helper.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.dll
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.pdb
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.exe
+c:\users\goti\documents\visual studio 2013\Projects\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe.config
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.exe
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\DotNetOpenAuth.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Samples.Helper.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.dll
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.pdb
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csproj.App.config
+C:\Users\JuanAlejandro\Documents\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csprojResolveAssemblyReference.cache
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe.config
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.exe
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.exe
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\YouTubeAPIv3Test.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\DotNetOpenAuth.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Samples.Helper.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.dll
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.Core.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.PlatformServices.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\log4net.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Newtonsoft.Json.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Extensions.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\System.Net.Http.Primitives.xml
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\bin\Debug\Zlib.Portable.pdb
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csproj.App.config
+D:\Kinetica\YouTubeAPIv3Test\YouTubeAPIv3Test\obj\Debug\YouTubeAPIv3Test.csprojResolveAssemblyReference.cache
